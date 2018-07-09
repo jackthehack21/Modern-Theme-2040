@@ -1,0 +1,12 @@
+Package: "com.jackthehack.moderntheme"
+Name: "Modern Theme 2040"
+Version: "1.0"
+Architecture: iphoneos-arm
+Depends: ""
+Description: "Modern Theme 2040, Advanced Tweak !"
+Homepage: "More info at https://Jackthehack21.github.io/repo/Files/moderntheme/index.html"
+Depiction: https://Jackthehack21.github.io/repo/Files/moderntheme/index.html
+Maintainer: Jack Honour <gangnam253@gmail.com>
+Author: Jack Honour <gangnam253@gmail.com>
+Sponsor: ""
+Section: "Themes"
