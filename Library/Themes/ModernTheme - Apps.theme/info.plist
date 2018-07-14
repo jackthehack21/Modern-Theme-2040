@@ -2,9 +2,41 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>ArialRoundedMTBold</string>
+		<key>FontSize</key>
+		<integer>20</integer>
+		<key>TextColor</key>
+		<string>#2e2e2e</string>
+		<key>TextYoffset</key>
+		<integer>7</integer>
+	</dict>
+	<key>CalendarIconDateStyle</key>
+	<string>
+		font-size: 20px;
+		padding-top: 7px;
+		color: #2e2e2e;
+	</string>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontSize</key>
+		<real>0.0</real>
+	</dict>
+	<key>CalendarIconDayStyle</key>
+	<string>       
+                position:absolute;
+                width: auto;
+					 font-family:; 
+                height: auto;
+                padding-top: 0px;
+                font-size: 0px;
+                font-weight:100;
+                text-align: center;
+                color: ;
+        </string>
 	<key>IB-MaskIcons</key>
 	<true/>
-	<key>PackageName</key>
-	<string>ModernTheme</string>
 </dict>
 </plist>
